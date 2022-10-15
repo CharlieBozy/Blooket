@@ -1,14 +1,28 @@
-# Blooket Hacks 👾
+# Blooket Hack
 
-## About 📜
-> This tool is most of the time working, this is using Blooket's new API to allow usage of hacks again!
-> This tool is easy and lightweight to use, compatible with every device able to use javascript.
-> Updated frquently, create an [issue](https://github.com/vantr-o/Blooket/issues/new)
+**The Blooket Hack provided by [vantro](https://twitter.com/vantroiscrazy)**
 
-> As you noticed, these files are encrypted this is so Blooket accepts the code, if needed for developer usage contact me on twitter and I will give you access to the source repo.
+Why you should use this tool:
+- Always working.
+- When the hacks break it usually gets fixed in about 6-8 hours.
+- This tool is actively being updated so nothing breaks.
+- Used by hundreds of thousands people.
 
-## How To 🎫
-> Open your console (Ctrl + Shift + J) paste the code and click enter.
+All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/vantr-o/Blooket/issues).
 
-## Notice ⚠
-I AM NOT RESPONSIBLE FOR ANY ACCOUNT BANNED WHILE USING THIS TOOL, THIS IS AGAINST BLOOKET'S TERMS OF USE...
+## Current Version
+
+Blooket Hack v1.0
+
+- **View all the changelogs [here](https://github.com/vantr-o/Blooket/blob/main/CHANGELOG.md).**
+
+# Important
+
+Blooket is now banning people who are using hacks.
+
+**I just wanted to say that I'm not responsible if you get banned. I'm not responsible for your actions.**
+
+## PoC
+![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
+![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
+![image](https://user-images.githubusercontent.com/73669084/148287313-30793b91-b0d1-430b-879b-398a23b9b197.png)
